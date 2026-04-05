@@ -1,0 +1,10 @@
+# PostgreSQL data
+*.backup
+*.dump
+pgdata/
+
+# Logs
+*.log
+
+# Secrets (though we use test creds for CTF)
+*.secret.yaml
